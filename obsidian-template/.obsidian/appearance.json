@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "custom"
+  ],
+  "accentColor": "#dd4c4f",
+  "showViewHeader": true,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Avenir",
+  "monospaceFontFamily": "Avenir"
+}
